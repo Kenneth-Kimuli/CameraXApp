@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraX App</string>
+    <string name="close">CLOSE</string>
+    <string name="lens">Lens</string>
+    <string name="video">VIDEO</string>
+    <string name="stop">STOP</string>
+    <string name="photo">PHOTO</string>
+
+</resources>
